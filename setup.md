@@ -3,7 +3,7 @@
 
 # Setup for Mac Users
 Here is the video tutorial I made for mac users on how to do this using the following instructions:  
-Getting Setup for python walkthrough video.  
+Getting Setup for [python setup walkthrough video](https://drive.google.com/file/d/1-YaquavYYAHDnCCqm8ZQCR7M0h61AZAL/view?usp=drive_link).  
 
 0. Download and install [iTerm2](https://iterm2.com/downloads.html).
 1. Open iTerm2
@@ -33,19 +33,13 @@ Getting Setup for python walkthrough video.
 3. OPTIONAL: Download and install [Sublime Text](https://www.sublimetext.com/) and/or [VS Code](https://code.visualstudio.com/download).   
 
 
-# Trouble Shooting 
-1. Mac users may have to install command line tools for xcode.  
-- You dont need to update xcode fully, all you have to do is open your terminal and type in the following command. `xcode-select --install`
-
-
-# Once you are all setup.
+# BOTH WINDOWS AND MAC:: Once you are all setup....
 
  ### Wrapping up:
  * Now that we have everything installed
 * Mac Users:  Fully quit iTerm (don't just close the window, but quit the application to restart it). 
-* Window users: Open up your Anaconda Power Shell (in the Ananconda Folder you can find in your home menu), and type in `jupyter notebook`.
-* Type in `jupter notebook` into the terminal to launch python / jupyter
+* Window users: Open up your Anaconda Power Shell (in the Ananconda Folder you can find in your home menu).
+* * Type in `jupter notebook` into the terminal (iterm or Anaconda Power Shell) to launch python / jupyter
 	* If that doesn't work, try `jupyter lab` instead of `jupyter notebook`
-* Create a new Jupyter Notebook file. 
-	* Now that you are in python land, print 'Hello World'
-	* You're good now. Happy coding.
+* Create a new Jupyter Notebook file, and print 'Hello World!'. 
+* You're good now. Happy coding.
