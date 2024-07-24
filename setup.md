@@ -27,10 +27,12 @@ Getting Setup for [python setup walkthrough video](https://drive.google.com/file
 	*  Anaconda is free. You don't have to create an account, but you do need to provide a valid email. 
 	* Once you submit your email, you will be sent to another page where you pick which type of computer you have. 
 
-2. Download and install [git](https://git-scm.com/download/win).
+2. Open up the Anaconda Powershell Terminal
+	* Instructions on how to find it here --> [link](https://saturncloud.io/blog/how-to-access-anaconda-command-prompt-in-windows-10-64bit/#method-1-through-the-start-menu)
+4. Download and install [git](https://git-scm.com/download/win).
 	* Use the Standalone Installer not the Portable ("thumbdrive edition") installer. 
 
-3. OPTIONAL: Download and install [Sublime Text](https://www.sublimetext.com/) and/or [VS Code](https://code.visualstudio.com/download).   
+5. OPTIONAL: Download and install [Sublime Text](https://www.sublimetext.com/) and/or [VS Code](https://code.visualstudio.com/download).   
 
 
 # BOTH WINDOWS AND MAC:: Once you are all setup....
@@ -38,7 +40,7 @@ Getting Setup for [python setup walkthrough video](https://drive.google.com/file
  ### Wrapping up:
  * Now that we have everything installed
 * Mac Users:  Fully quit iTerm (don't just close the window, but quit the application to restart it). 
-* Window users: Open up your Anaconda Power Shell (in the Ananconda Folder you can find in your home menu).
+* Window users: Open up your Anaconda Power Shell (in the Ananconda Folder you can find in your home menu). Or find it with help [from this tutorial](https://saturncloud.io/blog/how-to-access-anaconda-command-prompt-in-windows-10-64bit/#method-1-through-the-start-menu)
 * * Type in `jupter notebook` into the terminal (iterm or Anaconda Power Shell) to launch python / jupyter
 	* If that doesn't work, try `jupyter lab` instead of `jupyter notebook`
 * Create a new Jupyter Notebook file, and print 'Hello World!'. 
