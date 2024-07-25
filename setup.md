@@ -40,7 +40,7 @@ Getting Setup for [python setup walkthrough video](https://drive.google.com/file
 * Now that we have everything installed
 * Mac Users:  Fully quit iTerm (don't just close the window, but quit the application to restart it). 
 * Window users: Open up your Anaconda Power Shell (in the Ananconda Folder you can find in your home menu). Or find it with help [from this tutorial](https://saturncloud.io/blog/how-to-access-anaconda-command-prompt-in-windows-10-64bit/#method-1-through-the-start-menu)
-* Type in `jupter notebook` into the terminal (iterm or Anaconda Power Shell) to launch python / jupyter
+* Type in `jupyter notebook` into the terminal (iterm or Anaconda Power Shell) to launch python / jupyter
 	* If that doesn't work, try `jupyter lab` instead of `jupyter notebook`
 * Create a new Jupyter Notebook file, and print 'Hello World!'. 
 * You're good now. Happy coding.
