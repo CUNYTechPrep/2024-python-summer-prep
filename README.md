@@ -16,7 +16,7 @@ Please have your full name, how to pronounce, and photo in Zoom and Slack.
 -   Class 2: Wednesday 7/31 @ 6:15-8:15pm ET
 	- LOTS OF CODING: Variables, data types, functions, comments, conditionals, loops.  With in class exercises in breakout rooms. 
 -   Class 3: Wednesday 8/07 @ 6:15-8:15pm ET
-	- Using libraries (pandas), reading documentation and practice with fun exercises.
+	- Using libraries (pandas), reading documentation, debugging and practice with fun exercises.
 -   Class 4: Wednesday 8/14 @ 6:15-8:15pm ET
-	- Objects, debugging, open floor questions, and Jeopardy! 
+	- Objects, open floor questions, and Jeopardy! 
 
